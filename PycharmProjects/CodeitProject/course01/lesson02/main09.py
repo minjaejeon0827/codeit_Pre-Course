@@ -52,7 +52,7 @@ print_sum2(7 ,3 ,2)
 
 def print_sum3(*numbers):
     """
-    Description: [테스트] 튜플에 저장된 여러가지 수(*numbers)의 합 출력
+    Description: [테스트] 튜플(또는 리스트)에 저장된 여러가지 수(*numbers)의 합 출력
 
     Parameters: *numbers - 실수값 저장된 튜플 객체 (가변인수)
 
@@ -61,7 +61,7 @@ def print_sum3(*numbers):
 
     print(*numbers)
     # 주의사항 - 가변인자의 값(numbers)을 직접 사용(sum 함수 인자 전달 등등...)할 때는 *를 빼고 사용
-    print(numbers)   # 튜플 객체 출력
+    print(numbers)   # 튜플(또는 리스트) 객체 출력
     print(sum(numbers))
 
 print_sum3(1, 2, 3, 4, 5, 6)
