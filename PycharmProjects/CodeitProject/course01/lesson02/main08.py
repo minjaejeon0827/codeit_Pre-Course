@@ -4,6 +4,9 @@
 
 # 함수 매개변수와 인수
 # 참고 URL - https://wikidocs.net/24#_4
+# 참고 2 URL - https://www.codeit.kr/community/threads/10416
+# 참고 3 URL - https://www.codeit.kr/community/threads/5998
+# 참고 4 URL - https://mingrammer.com/understanding-the-asterisk-of-python/
 
 def hello(name=""):   # def 기호 사용하여 구현한 함수 정의의 첫줄을 함수의 '헤더'라고 부른다.
     """
