@@ -6,6 +6,9 @@
 # 보통 0 은 에러 없이 프로그램이 성공적으로 실행되었다는 것을 의미함.
 # 그래서 위 메시지가 나오면 프로그램이 잘 실행되었다고 생각하면 된다.
 
+# 파이썬 코드 스타일 가이드 라인 (PEP 8 – Style Guide for Python Code)
+# 참고 URL - https://www.python.org/dev/peps/pep-0008
+
 # 변수란 데이터를 어떤 공간에 담아서 이름표를 붙여 주는 것이다.
 # 대입 연산자(=) 오른쪽에 있는 값(4990)을 대입 연산자(=) 왼쪽 변수(burger_price)에 저장
 burger_price = 4750   # burger_price 선언 및 4750 이라는 데이터를 burger_price 변수에 저장

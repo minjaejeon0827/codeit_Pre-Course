@@ -6,6 +6,9 @@
 # 보통 0 은 에러 없이 프로그램이 성공적으로 실행되었다는 것을 의미함.
 # 그래서 위 메시지가 나오면 프로그램이 잘 실행되었다고 생각하면 된다.
 
+# 파이썬 코드 스타일 가이드 라인 (PEP 8 – Style Guide for Python Code)
+# 참고 URL - https://www.python.org/dev/peps/pep-0008
+
 # 함수 매개변수와 인수
 # 참고 URL - https://wikidocs.net/24#_4
 # 참고 2 URL - https://www.codeit.kr/community/threads/10416
