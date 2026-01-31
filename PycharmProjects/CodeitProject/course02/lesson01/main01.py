@@ -62,7 +62,7 @@ print(decimal.Decimal('1.2') / decimal.Decimal('3.0'))
 print(decimal.Decimal('1.2') / 3)
 # 결과값:0.4
 
-# 몫 연산 (//)
+# floor division (//) (버림 나눗셈 - 몫 연산)
 # 정수형 / 정수형 = 정수형
 # 소수형 / 정수형 = 소수형
 # 정수형 / 소수형 = 소수형
