@@ -18,7 +18,8 @@
 # 참고 URL - https://docs.python.org/ko/3.9/tutorial/floatingpoint.html
 # 참고 2 URL - https://docs.python.org/ko/3/tutorial/floatingpoint.html
 # 참고 3 URL - https://blog.winterjung.dev/2020/01/06/floating-point-in-python
-
+# 참고 4 URL - https://realpython.com/python-rounding/#the-decimal-class
+# from decimal import Decimal
 import decimal
 
 # 덧셈
