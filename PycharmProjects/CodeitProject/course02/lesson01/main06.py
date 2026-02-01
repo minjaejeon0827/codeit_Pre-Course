@@ -8,6 +8,8 @@
 print(int(3.8))   # 결과값 - 3
 
 # 정수형 -> 소수형 형변환
+# 참고 - float 함수가 input으로 받는 데이터 자료형을 정수형(int) 또는 문자열(string) 형태로 받는다.
+#       하여 정수형(int) 또는 문자열(string) 형태로 들어온 데이터도 자동으로 소수형(float) 형변환 가능함.
 print(float(3))   # 결과값 - 3.0
 
 # 문자열 -> 정수형 형변환
@@ -43,3 +45,4 @@ print("Hello," + "World")  # 출력: Hello,World
 print("Hello, " + "World") # 출력: Hello, World
 print("I'm" + str(20) + "years old.")   # 출력: I'm20years old.
 print("I'm " + str(20) + " years old.") # 출력: I'm 20 years old.
+print(float(3) == float("3"))   # 출력: True
