@@ -7,6 +7,9 @@
 # Return type : Returns a formatted string with the value passed as parameter in the placeholder position.
 # 참고 URL - https://docs.python.org/ko/3/library/stdtypes.html#str.format
 
+# print 함수 스타일 문자열 포매팅
+# 참고 URL - https://docs.python.org/ko/3/library/stdtypes.html#printf-style-string-formatting
+
 print("저는 {}, {}, {}를 좋아합니다!".format("박지성", "유재석", "빌 게이츠"))   # 출력 순서 - "박지성", "유재석", "빌 게이츠"
 # 문자열 출력 순서 변경
 # {0} - "박지성" 문자열 의미
