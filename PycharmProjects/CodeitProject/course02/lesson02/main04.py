@@ -3,8 +3,6 @@
 # 참고
 # return문 vs print문 차이
 # 참고 URL - https://www.codeit.kr/community/questions/UXVlc3Rpb246NWUzNDUyMjU4MGU1MTMzNzNkOTYyZTk5
-# 참고 2 URL -
-
 
 def print_square(x):
     """
@@ -102,8 +100,8 @@ def print_name():
     Returns: None
     """
     
-    print('peter')    # <<< 실제로는 여기까지 쓰여있습니다
-    # return None     <<< 만약 함수에 return 이 정의되어 있지 않다면 파이썬 내부적으로 return None 이 함수 가장 마지막에 쓰여있다고 가정하게 됩니다.
+    print('peter')    # <<< 실제로는 여기까지 쓰여있다
+    # return None     <<< 만약 함수에 return 이 정의되어 있지 않다면 파이썬 내부적으로 return None 이 함수 가장 마지막에 쓰여있다고 가정하게 된다.
 
 print(return_name())
 print_name()
