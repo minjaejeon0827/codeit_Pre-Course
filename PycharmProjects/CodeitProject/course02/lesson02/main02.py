@@ -64,7 +64,7 @@ def square(x):
 
     Returns: x * x - 정사각형 넓이 값
     """
-    
+
     print("why come it out as None in according to a word 'return'")
     return x * x
 
