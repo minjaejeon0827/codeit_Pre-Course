@@ -40,14 +40,31 @@ print("square 함수 호출 후")
 
 # 기타
 def hello():     #  use no 'return'
+    """
+    Description: [테스트] 인삿말 출력
+
+    Parameters: None
+
+    Returns: None
+    """
+
     print("hello!")
     print("welcome to codeit!")
     return None     # regard as it is here.
+
 print("before caling fuction")
 print(hello())
 print("after calling function")
 
 def square(x):
+    """
+    Description: 정사각형 넓이 값 출력
+
+    Parameters: x - 정사각형 한 변의 길이
+
+    Returns: x * x - 정사각형 넓이 값
+    """
+    
     print("why come it out as None in according to a word 'return'")
     return x * x
 
