@@ -9,7 +9,7 @@
 
 def square(x):
     """
-    Description: 정사각형 넓이 값 출력
+    Description: 정사각형 넓이 값 구하기
 
     Parameters: x - 정사각형 한 변의 길이
 
