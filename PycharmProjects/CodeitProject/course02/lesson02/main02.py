@@ -24,7 +24,7 @@ print("hello 함수 호출 후")
 # square 함수를 정의한다고 해서 square 함수가 실행되는 건 아니다. 실제로 square 함수를 호출해야 실행된다.
 def square(x):
     """
-    Description: 정사각형 넓이 값 출력
+    Description: 정사각형 넓이 값 구하기
 
     Parameters: x - 정사각형 한 변의 길이
 
@@ -58,7 +58,7 @@ print("after calling function")
 
 def square(x):
     """
-    Description: 정사각형 넓이 값 출력
+    Description: 정사각형 넓이 값 구하기
 
     Parameters: x - 정사각형 한 변의 길이
 
