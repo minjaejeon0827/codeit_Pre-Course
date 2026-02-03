@@ -10,6 +10,7 @@
 # 파이썬 코드 스타일 가이드 라인 (PEP 8 – Style Guide for Python Code)
 # 참고 URL - https://www.python.org/dev/peps/pep-0008
 # 참고 2 URL - https://pep8.org/
+# 참고 3 URL - https://peps.python.org/pep-0008/
 
 # 안 좋은 코드 설명
 # 문법적으로는 아무런 문제 없고 실행하면 의도한 출력값이 나온다.
