@@ -11,6 +11,7 @@ Process finished with exit code 1
 
 파이썬 코드 스타일 가이드 라인 (PEP 8 – Style Guide for Python Code)
 참고 URL - https://www.python.org/dev/peps/pep-0008
+참고 2 URL - https://pep8.org/
 
 C언어 역슬래시(백슬래시) '＼' 문자 입력하기
 참고 URL - https://blog.naver.com/PostView.nhn?blogId=eominsuk55&logNo=220603385773&parentCategoryNo=&categoryNo=23&viewDate=&isShowPopularPosts=true&from=search
