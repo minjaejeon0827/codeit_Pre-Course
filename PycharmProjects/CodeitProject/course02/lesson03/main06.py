@@ -20,10 +20,10 @@
 # 하여 조건식을 temperature <= 10 으로 작성한다.
 # temperature = 8
 temperature = 16
-if temperature <= 10:  # 명령 실행 조건 (불린(Boolean) 겂으로 계산되는 식)
+if temperature <= 10:  # 명령 실행 조건 (불린(Boolean) 값으로 계산되는 식)
     # 수행 부분
     print("자켓을 입는다.")  # 실행 명령 (조건을 충족했을 때 실행하고 싶은 명령)
-else:   # 명령 실행 조건 (불린(Boolean) 겂으로 계산되는 식)
+else:   # 명령 실행 조건 (불린(Boolean) 값으로 계산되는 식)
     # 수행 부분
     print("자켓을 입지 않는다.")  # 실행 명령 (조건을 충족하지 않았을 때 실행하고 싶은 명령)
 
