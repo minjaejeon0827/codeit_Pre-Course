@@ -35,3 +35,6 @@ print('\\\'안녕"')
 \t:탭 문자
 \':작은따옴표(작은따옴표 안에서 작은따옴표를 쓰고 싶을 때 씀)
 \":큰따옴표(큰따옴표 안에서 큰따옴표를 쓰고싶을 때 씀)
+
+Python GC(garbage collection(가비지 컬렉션))가 작동하는 원리
+참고 URL - https://blog.winterjung.dev/2018/02/18/python-gc
