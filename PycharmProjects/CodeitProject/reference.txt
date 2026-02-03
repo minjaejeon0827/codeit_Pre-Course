@@ -40,3 +40,6 @@ print('\\\'안녕"')
 
 Python GC(garbage collection(가비지 컬렉션))가 작동하는 원리
 참고 URL - https://blog.winterjung.dev/2018/02/18/python-gc
+
+컴퓨팅 사고와 개발 실력 늘리는 공부법
+참고 URL - https://velog.io/@teo/computational-thinking
