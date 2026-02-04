@@ -55,3 +55,9 @@ Python GC(garbage collection(가비지 컬렉션))가 작동하는 원리
 
 파이썬 print 함수
 참고 URL - https://docs.python.org/ko/3/library/functions.html#print
+
+파이썬 사전 (dictionary) 자료형
+참고 URL - https://wikidocs.net/16
+
+파이썬 \n(문자열에서 줄바꿈), 2.5. 문자열과 바이트열 리터럴
+참고 URL - https://docs.python.org/ko/3/reference/lexical_analysis.html#string-and-bytes-literals
