@@ -61,3 +61,25 @@ Python GC(garbage collection(가비지 컬렉션))가 작동하는 원리
 
 파이썬 \n(문자열에서 줄바꿈), 2.5. 문자열과 바이트열 리터럴
 참고 URL - https://docs.python.org/ko/3/reference/lexical_analysis.html#string-and-bytes-literals
+
+파이썬 함수
+참고 URL - https://python.bakyeono.net/chapter-3-3.html
+
+파이썬 변수 제대로 이해하기
+참고 URL - https://www.codeit.kr/learn/courses/intro-to-python-programming/2762
+
+파이썬 함수의 실행 순서
+참고 URL - https://www.codeit.kr/learn/courses/intro-to-python-programming/2763
+
+파이썬 return문 제대로 이해하기
+참고 URL - https://www.codeit.kr/learn/courses/intro-to-python-programming/2764
+
+파이썬 return 과 print 에 대한 차이
+참고 URL - https://www.codeit.kr/courses/intro-to-python-programming/topics/core-concept-of-python-programming
+
+개발하다 힘들 때 보면 좋은 글
+참고 URL - https://www.codeit.kr/community/threads/35089
+참고 2 URL - https://twitter.com/chukbak/status/1472534513997987843
+참고 3 URL - https://twitter.com/royroy_j/status/1474245662057578496
+참고 4 URL - https://twitter.com/royroy_j/status/1472248459231371268
+참고 5 URL - https://youtu.be/fXIpMyrI3U8
