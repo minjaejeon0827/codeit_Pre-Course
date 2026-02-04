@@ -69,12 +69,12 @@ print(len(my_string))
 
 # ***** 문자열(str)과 리스트(list)의 차이점 *****
 
-# 리스트(list) 요소(값) 바꾸기 가능
+# 리스트(list) 요소(값) 바꾸기 가능(Mutable)
 numbers = [1, 2, 3, 4]
 numbers[0] = 5   # numbers 리스트 0 인덱스 요소(값) 5로 바꾸기
 print(numbers)
 
-# 문자열(str) 요소(값) 바꾸기 불가
+# 문자열(str) 요소(값) 바꾸기 불가(Immutable)
 name = 'codeit'
 # 아래 코드 실행시 오류 메시지 출력
 # 오류 메시지 - "TypeError: 'str' object does not support item assignment"
