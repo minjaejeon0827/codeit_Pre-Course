@@ -10,6 +10,9 @@
 # 또한 핵심적인 차이점은 리스트의 인덱스는 0, 1, 2, 3, 4 ... 과 같은 정숫값들이라면
 # 사전 (dictionary)의 key-value는 반드시 정수형일 필요 없다. (key-value는 문자열로 작성할 수 있다.)
 
+# 파이썬 사전 (dictionary) 자료형
+# 참고 URL - https://wikidocs.net/16
+
 # 파이썬 사전 (dictionary) 자료형 중괄호 {} 쓰임
 # 참고 URL - https://stackoverflow.com/questions/9197324/what-is-the-meaning-of-curly-braces
 
