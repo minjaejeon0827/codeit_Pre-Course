@@ -1,3 +1,5 @@
+# 프로그래밍 핵심 개념 in Python
+# 2. 추상화
 # 04. return과 print의 차이
 
 # 참고
