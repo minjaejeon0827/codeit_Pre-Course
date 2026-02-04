@@ -12,6 +12,9 @@
 # 파이썬 append 함수, extend() 함수 차이
 # 참고 URL - https://www.geeksforgeeks.org/python/append-extend-python/
 
+# 파이썬 del 함수, remove(), pop() 함수 차이
+# 참고 URL - https://stackoverflow.com/questions/11520492/difference-between-del-remove-and-pop-on-lists#:~:text=and%20pop%20removes%20the%20item%20at%20a%20specific%20index%20and%20returns%20it.&text=Use%20del%20to%20remove%20an,value%20occurs%20in%20the%20list.
+
 numbers = []  # 요소가 없고 비어있는 numbers 리스트
 
 # len 함수
