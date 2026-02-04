@@ -9,6 +9,9 @@
 # insert 함수 - 리스트의 특정 '인덱스(index)' 요소(값) 삽입(추가) ('삽입 연산'이라 부른다.)
 # 참고 URL - https://stackoverflow.com/questions/53932704/why-doesnt-list-insert-with-negative-index-insert-the-item-at-the-end
 
+# 파이썬 append 함수, extend() 함수 차이
+# 참고 URL - https://www.geeksforgeeks.org/python/append-extend-python/
+
 numbers = []  # 요소가 없고 비어있는 numbers 리스트
 
 # len 함수
