@@ -49,3 +49,6 @@ Python GC(garbage collection(가비지 컬렉션))가 작동하는 원리
 
 의사코드(pseudo-code)란?
 참고 URL - https://medium.com/djangogirlsseoul-codecamp/%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-pseudo-code-%EB%9E%80-d892a3479b1d
+
+파이썬 예외 처리(try-except 문, try-finally 문, try-else 문 등등...)
+참고 URL - https://wikidocs.net/30
